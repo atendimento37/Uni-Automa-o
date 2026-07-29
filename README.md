@@ -1,2 +1,2 @@
 # Uni-Automa-o
-Uni Altomatização
+Uni Automatização
